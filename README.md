@@ -19,7 +19,7 @@ git clone https://github.com/SeuUsuario/Eleicoes_Muni_2024.git
 ## Links para dawloads dos dados:
 
 * [Repositorio dados Eleições](https://dadosabertos.tse.jus.br/dataset/?tags=Ano+2024)
-* [Paridos](https://github.com/programacaodinamica/analise-dados/blob/master/dados/partidos2024.csv)
+* [Partidos](https://github.com/programacaodinamica/analise-dados/blob/master/dados/partidos2024.csv)
 * [Malha Municipal](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html?edicao=36516&t=acesso-ao-produto)
 
 ## Licença
