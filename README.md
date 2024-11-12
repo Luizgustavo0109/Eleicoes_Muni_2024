@@ -1,5 +1,5 @@
 # Análise de Espectro Político dos Candidatos a Prefeito e Vereadores de 2024
-Este projeto é um notebook que compara o espectro político dos candidatos a prefeito e vereadores nas eleições de 2024. A análise tem como objetivo entender a distribuição e posicionamento ideológico dos candidatos, fornecendo uma visão abrangente do cenário político atual. O objetivo principal é ajudar os eleitores e pesquisadores a compreenderem melhor as tendências ideológicas dos candidatos, contribuindo para um voto mais informado e para estudos sobre a diversidade política nas eleições municipais de 2024.
+Este projeto é um notebook que compara o espectro político dos candidatos a prefeito e vereadores nas eleições de 2024 em comparação com 2020/2016. A análise tem como objetivo entender a distribuição e posicionamento ideológico dos candidatos, fornecendo uma visão abrangente do cenário político atual. O objetivo principal é ajudar os eleitores e pesquisadores a compreenderem melhor as tendências ideológicas dos candidatos, contribuindo para um voto mais informado e para estudos sobre a diversidade política nas eleições municipais de 2024.
 
 ## Funcionalidades
 Análise de Espectro: Compara o espectro político dos candidatos a prefeito e vereadores com base em dados públicos.
